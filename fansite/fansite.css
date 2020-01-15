@@ -1,0 +1,16 @@
+body {
+  /* background-color: black; */
+}
+
+h2 {
+  color: red;
+}
+
+.welcome {
+  font-size: 48px;
+  color: rgb(88, 196, 234);
+}
+
+.center {
+  text-align: center;
+}
